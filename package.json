@@ -1,0 +1,22 @@
+{
+    "name": "node-log-file",
+    "description": "A simple NPM package to log content to a file",
+    "version": "0.0.1",
+    "main": "./dist/index.js",
+    "scripts": {
+        "test": "mocha tests/tests.js"
+    },
+    "author": {
+        "name": "DeathHound6"
+    },
+    "repository": {
+        "url": "https://github.com/DeathHound6/node-log-file"
+    },
+    "bugs": {
+        "url": "https://github.com/DeathHound6/node-log-file/issues"
+    },
+    "devDependencies": {
+        "@types/node": "^18.0.5",
+        "mocha": "^10.0.0"
+    }
+}
