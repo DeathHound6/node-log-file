@@ -1,9 +1,12 @@
 # Node Log File
 A simple NPM package to log content to a file
 
+## Install
+- `npm install @deathhound/node-log-file`
+
 ## Example Usage
 ```js
-const { Logger } = require("node-log-file");
+const { Logger } = require("@deathhound/node-log-file");
 
 // Specified directory must exist on the system
 const logger = new Logger({ dirPath: `${__dirname}/logs` });

@@ -1,5 +1,5 @@
 {
-    "name": "node-log-file",
+    "name": "@deathhound/node-log-file",
     "description": "A simple NPM package to log content to a file",
     "version": "0.0.1",
     "main": "./dist/index.js",
